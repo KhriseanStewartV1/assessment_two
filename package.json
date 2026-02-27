@@ -1,0 +1,20 @@
+{
+  "name": "assessment_one",
+  "version": "1.0.0",
+  "description": "MOBILE APPLICATION DEVELOPMENT - ASSESSMENT  MOBILE APPLICATION DEVELOPMENT   PRACTICAL ASSESSMENT - PAPER II  Technologies: NodeJS + Express + MySQL | Flutter  Total Duration: 1:00 PM – 5:00 PM  GENERAL INSTRUCTIONS  You are required to complete two independent practical papers within the allocated  time. The mornig session will focus on Flutter user interface development. The  afternoon session will focus on backend development using NodeJS, Express, and  MySQL. The two sessions are related by scenario but will be assessed independently.  You must carefully read the scenario before beginning. You are expected to demonstrate  professional coding standards, structured architecture, and organized project layout.  Marks will be awarded only for implemented, testable, and properly structured features.  There is no authentication logic required for this assessment. You may assume a  predefined user exists within the system.  All work MUST be completed individually.  Page [1] of [13]",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.18.2"
+  },
+  "type": "module"
+}
